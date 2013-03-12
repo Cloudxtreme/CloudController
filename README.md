@@ -1,4 +1,3 @@
-**OverView**
 Parse providing a wonderful framework for developers across all platforms, out of which iOS is one of them.
 PFQueryTableViewController helps to manage UITableViewController with PFQuery. But, if we can't use the same UITableViewController in-coordination with PFCloud.
 
